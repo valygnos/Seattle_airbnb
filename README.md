@@ -1,7 +1,11 @@
 # Seattle_airbnb
 
 ## Table of Contents
-1. [Installation]
+1. ## Installation
+2. ## Project Motivation
+3. ## File Descriptions
+4. ## Results
+5. ## Licensing, Authors, Acknowledgements
 
 ## Installation
 
@@ -23,7 +27,7 @@ There are 1 notebook available here to showcase work related to the above questi
 
 ## Results
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@valygnos/what-things-contribute-most-to-an-airbnb-price-7db48d021fe8).
 
 ## Licensing, Authors, Acknowledgements
 
